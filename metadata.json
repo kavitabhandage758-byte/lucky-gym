@@ -1,0 +1,6 @@
+{
+  "name": "Lucky Gym - Gajendragada",
+  "description": "Modern, premium website for Lucky Gym in Gajendragada, Karnataka featuring training info, BMI calculator, Google reviews, and direct WhatsApp contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
